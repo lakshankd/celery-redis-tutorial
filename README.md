@@ -10,11 +10,13 @@ A simple Celery project demonstrating asynchronous task processing with Redis as
 
 ## Project Structure
 
+```bash
 celery-tutorial/
 ├── tasks.py # Celery tasks definition
 ├── docker-compose.yml # Redis services configuration
 ├── requirements.txt # Python dependencies
 └── README.md # This file
+```
 
 ## Setup Instructions
 
